@@ -1,0 +1,7 @@
+This code is protected by a certificate of state registration as a computer program issued by Rospatent (Russian Federal Service for Intellectual Property). The details of the registration can be verified in the official registry of electronic protection documents via the following link:
+https://www.fips.ru/EGD/31cf2a07-f83d-4b38-9176-fb5905e9d359.
+
+All rights to this code are reserved under applicable law.
+You are free to use this code for non-commercial purposes only, provided that proper credit is given to the author. Commercial use, redistribution, or modification of the code without explicit written permission from the author is strictly prohibited.
+
+For inquiries about licensing or commercial use, please contact chernov1024@mail.ru
